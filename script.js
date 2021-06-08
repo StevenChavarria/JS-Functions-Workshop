@@ -1,7 +1,6 @@
 const btn = document.querySelector('button');
 
 btn.onclick = function () {
-   // displayMessage('Yahoo, a new message!!!');
    displayMessage('Ricardo: Hola!', 'chat');
 };
 
